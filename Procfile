@@ -1,1 +1,1 @@
-worker: worker
+worker: sbt run
