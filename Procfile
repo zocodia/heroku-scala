@@ -1,1 +1,1 @@
-worker: target/universal/stage/bin/heroku-scala
+worker: target/universal/stage/bin/Worker
