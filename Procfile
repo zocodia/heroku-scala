@@ -1,1 +1,1 @@
-worker: sbt run
+worker: target/universal/stage/bin/heroku-scala
